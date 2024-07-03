@@ -237,6 +237,6 @@ private string CriarGuidProtocolo()
 
 ### Citações
 ---------
-[Felipe Deschamps](https://www.youtube.com/watch?v=2tCX3zXeUAY&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK&index=5)
-[Código Fonte](https://www.youtube.com/watch?v=XUx0Mb7iUtg&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg&index=4)
-[Balta.IO](https://www.youtube.com/watch?v=tfli894kV68&list=PLHlHvK2lnJnfGR8aVpTybsUEFuARZH40U&index=1)
+[Felipe Deschamps](https://www.youtube.com/watch?v=2tCX3zXeUAY&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK&index=5) <br>
+[Código Fonte](https://www.youtube.com/watch?v=XUx0Mb7iUtg&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg&index=4) <br>
+[Balta.IO](https://www.youtube.com/watch?v=tfli894kV68&list=PLHlHvK2lnJnfGR8aVpTybsUEFuARZH40U&index=1) <br>

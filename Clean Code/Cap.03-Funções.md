@@ -1,4 +1,4 @@
-**Livro:** Código Limpo
+**Livro:** Código Limpo <br>
 **Autor**: Robert C. Martin
 
 ### Conteúdo
@@ -79,5 +79,5 @@ console.log(user.getBalanceAndUpdate()); // 80
 - **Reaproveitamento**: Crie funções que possam ser reaproveitadas e evite a repetição de código.
 ### Citações
 ---------
-[Felipe Deschamps](https://www.youtube.com/watch?v=gB5Gej0O400&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK&index=4)
-[Código Fonte](https://www.youtube.com/watch?v=wr8n2J4Sqs4&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg&index=3)
+[Felipe Deschamps](https://www.youtube.com/watch?v=gB5Gej0O400&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK&index=4) <br>
+[Código Fonte](https://www.youtube.com/watch?v=wr8n2J4Sqs4&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg&index=3) <br>
