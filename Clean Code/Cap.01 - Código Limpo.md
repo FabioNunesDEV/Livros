@@ -1,8 +1,5 @@
-**Data:** 2024-05-25
 **Livro:** Código Limpo
 **Autor**: Robert C. Martin
-
-**Tags:** #Clean-Code
 
 ### Conteúdo
 ----------------
@@ -74,10 +71,3 @@ function processData(data) {
 }
 
 ```
-### Citações
----------
-- Kent Beck - livros: 
-	- Tidy First?: Minirrefatorações para um melhor design de software, 
-	- Tdd - Desenvolvimento Guiado Por Testes
-	- Programacao Extrema (Xp) Explicada
-	- Padrões de Implementação: Um Catálogo de Padrões Indispensável para o Dia a Dia do Programador

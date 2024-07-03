@@ -1,8 +1,5 @@
-**Data:** 2024-07-01
 **Livro:** Código Limpo
 **Autor**: Robert C. Martin
-
-**Tags:** #Clean-Code
 
 ### Conteúdo
 ----------------

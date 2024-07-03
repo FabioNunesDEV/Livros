@@ -1,15 +1,6 @@
-**Data:** 2024-05-25
+
 **Livro:**  Código Limpo
 **Autor**:  Robert C. Martin
-**Outros Livros:** 
-- Arquitetura Limpa: O guia do artesão para estrutura e design de software
-- O Codificador Limpo
-- Craftsmanship limpo: disciplinas, padrões e ética
-- Princípios, Padrões e Práticas Ágeis em C#
-- Desenvolvimento ágil Limpo: de Volta às Origens
-
-
-**Tags:** #Clean-Code
 
 ### Resenha
 ----------------
