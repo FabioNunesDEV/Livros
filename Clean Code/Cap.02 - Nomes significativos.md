@@ -175,6 +175,6 @@ O capítulo 2 destaca a importância de usar nomes significativos no código, me
 ### Citações
 ---------
 
-[Código Fonte TV - Clean Code - Desvendando livros](https://www.youtube.com/watch?v=O5aWwBXPoh4&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg) <br>
-[Filipe Deschamps -  A importância dos nomes](https://www.youtube.com/watch?v=kw3H7nj9kc4) <br>
-[Balta.IO - Clean Code](https://www.youtube.com/watch?v=tfli894kV68&list=PLHlHvK2lnJnfGR8aVpTybsUEFuARZH40U) <br>
+[Código Fonte TV](https://www.youtube.com/watch?v=O5aWwBXPoh4&list=PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg) <br>
+[Filipe Deschamps](https://www.youtube.com/watch?v=kw3H7nj9kc4) <br>
+[Balta.IO](https://www.youtube.com/watch?v=tfli894kV68&list=PLHlHvK2lnJnfGR8aVpTybsUEFuARZH40U) <br>
